@@ -12,6 +12,7 @@ import javax.persistence.OneToMany;
 @Entity
 public class Book {
 	
+	//Judith heeft een comment toegevoegd
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long 	id;
