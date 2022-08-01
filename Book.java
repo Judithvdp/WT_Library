@@ -13,6 +13,7 @@ import javax.persistence.OneToMany;
 public class Book {
 	
 	//Judith heeft een comment toegevoegd
+	//Ik moet ook even commenten
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long 	id;
